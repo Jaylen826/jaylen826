@@ -2,11 +2,11 @@
 <table>
   <tr>
     <td valign="center">
-      ⚒️ I am currently a Field Engineer for Kyocera.
-      🌱 I am currently expanding my knowledge in React Native and Python.
-      🎯 My Goal is to use algorithms to make better trading decisions in the financial markets.
-      ✨ I love the generative AI space currently.
-
+      ⚒️ I am currently a Field Engineer for Kyocera. <br>
+      🌱 I am currently expanding my knowledge in React Native and Python. <br>
+      🎯 My Goal is to use algorithms to make better trading decisions in the financial markets. <br>
+      ✨ I love the generative AI space currently. <br>
+    </td>
   </tr>
   </table>
 <!--
