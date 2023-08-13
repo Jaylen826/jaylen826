@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jaylen 👋
+<table>
+  <tr>
+    <td valign="center">
+      ⚒️ I am currently a Field Engineer for Kyocera.
+      🌱 I am currently expanding my knowledge in React Native and Python.
+      🎯 My Goal is to use algorithms to make better trading decisions in the financial markets.
+      ✨ I love the generative AI space currently.
 
+  </tr>
+  </table>
 <!--
 **Jaylen826/jaylen826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
