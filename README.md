@@ -1,4 +1,4 @@
-### Hi, I'm Jaylen 👋
+### Hi, I'm Jaylen 👋🏼
 <table>
   <tr>
     <td valign="center">
@@ -12,6 +12,10 @@
     </td>
   </tr>
 </table>
+## Technologies ⚙️
+Languages ✍🏼
+![image](https://github.com/Jaylen826/jaylen826/assets/40022965/40ced34e-27b2-4330-97f5-4b1cd8d5583a)
+
 <!--
 ## Stats 
 <p align="center">
