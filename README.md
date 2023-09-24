@@ -1,4 +1,4 @@
-### Hi, I'm Jaylen 👋🏼
+# Hi, I'm Jaylen 👋🏼
 <table>
   <tr>
     <td valign="center">
@@ -12,9 +12,14 @@
     </td>
   </tr>
 </table>
-## Technologies ⚙️
-Languages ✍🏼
-![image](https://github.com/Jaylen826/jaylen826/assets/40022965/40ced34e-27b2-4330-97f5-4b1cd8d5583a)
+
+## Technologies⚙️ 
+### Languages ✍🏼 
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/40ced34e-27b2-4330-97f5-4b1cd8d5583a" width="5%" alt="html"/>
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/47597513-78ad-4101-ae37-da7a69625908" width="5%" alt ="css"/>
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/eb1830eb-fa42-41f9-a4d0-a6260e042082" width="5%" alt="mysql"/>
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/f12d78e9-5b42-4f58-a0c4-f2b8d43fae86" width="5%" alt="javascript"/>
+
 
 <!--
 ## Stats 
