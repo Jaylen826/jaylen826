@@ -17,8 +17,12 @@
 ### Languages ✍🏼 
 <img src="https://github.com/Jaylen826/jaylen826/assets/40022965/40ced34e-27b2-4330-97f5-4b1cd8d5583a" width="5%" alt="html"/>
 <img src="https://github.com/Jaylen826/jaylen826/assets/40022965/47597513-78ad-4101-ae37-da7a69625908" width="5%" alt ="css"/>
-<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/eb1830eb-fa42-41f9-a4d0-a6260e042082" width="5%" alt="mysql"/>
 <img src="https://github.com/Jaylen826/jaylen826/assets/40022965/f12d78e9-5b42-4f58-a0c4-f2b8d43fae86" width="5%" alt="javascript"/>
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/6f1d16a8-51e1-42cc-bf89-8907a858fa46" width="5%" alt="c++"/>
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/0cf29d58-182d-4248-8169-cf0331adafc4" width="5%" alt="python"/>
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/561ecccc-92c1-4970-a128-b1e4588219b7" width="5%" alt="react"/>
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/392ff0d2-0c71-4989-b290-45e449320c1b" width="5%" alt="ruby"/>
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/dc86e758-9022-4e30-8ad1-bb39b397cd98" width="5%" alt="mysql"/>
 
 
 <!--
