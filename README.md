@@ -2,10 +2,10 @@
 <table>
   <tr>
     <td valign="center">
-      ⚒️ I am currently a Field Engineer for Kyocera. <br><br>
+      ⚒️ I am currently a Field Systems Engineer for Kyocera. <br><br>
       🌱 I am currently expanding my knowledge in React Native and Python. <br><br>
       🎯 My Goal is to use algorithms to make better trading decisions in the financial markets. <br><br>
-      ✨ I love the generative AI space currently. <br>
+      ✨ I am very invested in the generative AI space currently. <br>
     </td>
     <td >
       <a href="https://app.daily.dev/jaylen826"><img src="https://api.daily.dev/devcards/d1036cf1688d41a9ad370b1ea50d3a2c.png?r=p4w" width="400" alt="Jaylen Lewis's Dev Card"/></a>
