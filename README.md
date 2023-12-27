@@ -23,6 +23,6 @@
 <img src="https://github.com/Jaylen826/jaylen826/assets/40022965/5b9ad129-a80a-4255-9077-89b05217b093" width="5%" alt="bootstrap"/> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="5%" alt="angular"/> <img src="https://miro.medium.com/v2/resize:fit:400/1*eRErB-NQYgwF52eUUK_kkQ.png" width="5%" alt="rails"/> <img src="https://static-00.iconduck.com/assets.00/react-javascript-js-framework-facebook-icon-1024x911-dnspa9ed.png" width="5%" alt="reactjs" />
 
 ### Projects 🏗
-A.I. Music Generator<br>
+<a href="https://bitbucket.org/stefika/ai-art/src/master/">A.I. Music Generator</a><br>
 Shopify websites<br>
 Online forum with an eCommerce theme<br>
