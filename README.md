@@ -20,7 +20,8 @@
 <img src="https://github.com/Jaylen826/jaylen826/assets/40022965/0cf29d58-182d-4248-8169-cf0331adafc4" width="5%" alt="python"/> <img src="https://github.com/Jaylen826/jaylen826/assets/40022965/561ecccc-92c1-4970-a128-b1e4588219b7" width="5%" alt="react"/> <img src="https://github.com/Jaylen826/jaylen826/assets/40022965/392ff0d2-0c71-4989-b290-45e449320c1b" width="5%" alt="ruby"/> <img src="https://github.com/Jaylen826/jaylen826/assets/40022965/dc86e758-9022-4e30-8ad1-bb39b397cd98" width="5%" alt="mysql"/>
 
 ### Frameworks 🎞
-<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/5b9ad129-a80a-4255-9077-89b05217b093" width="5%" alt="bootstrap"/> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="5%" alt="angular"/> <img src="https://miro.medium.com/v2/resize:fit:400/1*eRErB-NQYgwF52eUUK_kkQ.png" width="5%" alt="rails"/> <img src="https://static-00.iconduck.com/assets.00/react-javascript-js-framework-facebook-icon-1024x911-dnspa9ed.png" width="5%" alt="reactjs" />
+<img src="https://github.com/Jaylen826/jaylen826/assets/40022965/5b9ad129-a80a-4255-9077-89b05217b093" width="5%" alt="bootstrap"/> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="5%" alt="angular"/> <img src="https://miro.medium.com/v2/resize:fit:400/1*eRErB-NQYgwF52eUUK_kkQ.png" width="5%" alt="rails"/> <img src="https://github.com/user-attachments/assets/8f653235-bb97-4fb8-b55c-0a4824fab515" width="5%" alt="react.js"/> <img src="https://github.com/user-attachments/assets/c00af3ba-afc5-477e-acdb-ec7c149047b7" width="5%" alt="flask"/>
+
 ### Current Projects 🏗
 <a href="https://rapidapi.com/autobull-autobull-default/api/earningscalendar2">Stock Market Earnings Calendar API</a><br>
 ### Past Projects 🏗
