@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td valign="center">
-      ⚒️ I am currently a Field Systems Engineer for Kyocera. <br><br>
+      ⚒️ I am currently working on my self-built API and taking on other software development projects. <br><br>
       🌱 I am also currently expanding my knowledge in React Native and Python and taking on Web/App Dev projects. <br><br>
       🎯 My long-term goal is to use algorithms to make the most efficient trading decisions in the financial markets. <br><br>
       ✨ I am very invested in the generative AI space currently. <br>
